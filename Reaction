@@ -3,6 +3,6 @@ pkg upgrade
 pkg install php
 pkg install pythpn2
 pkg install git
-git clone https://github.com Reaxtion789/UGH-ddos-tool-myanmar
-cd UGH-ddoa-tool-myanmar
+git clone https://github.com Reaction789/UGH-ddos-tool-myanmar
+cd UGH-ddos-tool-myanmar
 bash UGH.sh
